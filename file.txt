@@ -1,0 +1,1 @@
+git init (initialized the git directory)
