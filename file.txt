@@ -1,1 +1,4 @@
 git init (initialized the git directory)
+git add . ( adding current directory to staging area)
+git commit -m "commit message" ( commit the changes from staging to commit area)
+git diff (diffrence between last commit to present changes)
